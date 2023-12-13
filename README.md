@@ -81,7 +81,8 @@
    http://localhost:3000/products/{id}
 ```
 
-- Delete products
+- URL: http://localhost:3000/products/6a360a18-c645-4b47-9a7b-2a71babbf3e0
+- Method: DELETE
 
 ```bash
    http://localhost:3000/products/{id}
