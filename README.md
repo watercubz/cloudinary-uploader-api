@@ -84,6 +84,12 @@
    http://localhost:3000/products/{id}
 ```
 
+## how to use the cloud
+
+> [!TIP]
+> If you want to use cloudinary for uploading images
+> In the project you will find an .env file already configured, you just have to pass the parameters it requires
+
 ### Contributing
 
 If you want to contribute to this project, feel free to open an issue or submit a pull request.
