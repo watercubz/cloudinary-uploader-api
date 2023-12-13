@@ -1,7 +1,5 @@
 # cloudinary-api-uploader
 
-# PROYECT STRUCTURE
-
 ```
 └── 📁api-cloudinary
     └── .env
