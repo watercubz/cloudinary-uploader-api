@@ -94,8 +94,8 @@ To start the server, use the following command: `npm run server`
 > [!IMPORTANT]
 > To delete a product, you have two ways from the database or from the cloud using cloudinary
 
-URL: http://localhost:3000/products/6a360a18-c645-4b47-9a7b-2a71babbf3e0
-Method: DELETE
+- URL: http://localhost:3000/products/6a360a18-c645-4b47-9a7b-2a71babbf3e0
+- Method: DELETE
 
 > [!IMPORTANT]
 > This api is still in development, if you find an error do not hesitate to open an issue and comment on your problem
