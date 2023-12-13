@@ -42,7 +42,7 @@ This code allows you to obtain several endpoints to obtain, create, update, dele
 
 - Node.js
 
-> .[!NOTE].
+> [!NOTE]
 > remember to check the package.json for dependencies
 
 ### Running the Server
@@ -57,7 +57,7 @@ To start the server, use the following command: `npm run server`
 
 ### GET ALL
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > this data is need to come from the database
 
 - URL: `http://localhost:3000/pruducts`
@@ -65,7 +65,7 @@ To start the server, use the following command: `npm run server`
 
 ### GET ID
 
-> .[!NOTE].
+> [!NOTE]
 > The ID is necessary when searching for the product
 
 - URL: `http://localhost:3000/proctuds/dcdd0fad-a94c-4810-8acc-5f108d3b18c3`
@@ -73,7 +73,7 @@ To start the server, use the following command: `npm run server`
 
 ### POST
 
-> .[!NOTE].
+> [!NOTE]
 > If you want to upload an image, use multipart/form-data,
 > All fields are required name,description,price ect.
 
@@ -91,13 +91,13 @@ To start the server, use the following command: `npm run server`
 
 ### DELETE
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > To delete a product, you have two ways from the database or from the cloud using cloudinary
 
 URL: http://localhost:3000/products/6a360a18-c645-4b47-9a7b-2a71babbf3e0
 Method: DELETE
 
-> .[!IMPORTANT].
+> [!IMPORTANT]
 > This api is still in development, if you find an error do not hesitate to open an issue and comment on your problem
 
 ### Contributing
