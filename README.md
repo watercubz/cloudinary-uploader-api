@@ -57,7 +57,7 @@
 - Create product
 
 ```bash
-   http://localhost:3000/products
+   http://localhost:3000/product
 ```
 
 > [!IMPORTANT]
@@ -75,13 +75,13 @@
 - Update Products
 
 ```bash
-   http://localhost:3000/products/{id}
+   http://localhost:3000/product/{id}
 ```
 
 - Delete Products
 
 ```bash
-   http://localhost:3000/products/{id}
+   http://localhost:3000/product/{id}
 ```
 
 ## how to use the cloud
