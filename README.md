@@ -37,17 +37,16 @@
 4. Install the required dependencies: `npm install`
 5. Run the server: `npm run server`
 
+## download project
+
 > [!TIP]
-> if you want to download the repo
+> To download the project and contribute use the following command
 
 ```bash
- https://github.com/watercubz/cloudinary-uploader-api.git
+ git clone https://github.com/watercubz/cloudinary-uploader-api.git
 ```
 
 ## Endpoint
-
-> [!IMPORTANT]
-> List Products
 
 - List products
 
@@ -73,14 +72,13 @@
 }
 ```
 
-- Update Book
+- Update Products
 
 ```bash
    http://localhost:3000/products/{id}
 ```
 
-- URL: http://localhost:3000/products/6a360a18-c645-4b47-9a7b-2a71babbf3e0
-- Method: DELETE
+- Delete Products
 
 ```bash
    http://localhost:3000/products/{id}
