@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "server": "node --watch app.js"
   },
   "keywords": [],
   "author": "",
